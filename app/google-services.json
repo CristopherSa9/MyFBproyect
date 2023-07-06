@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802443375731",
+    "project_id": "myfbproject-bbe1c",
+    "storage_bucket": "myfbproject-bbe1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802443375731:android:dea344fb11af926cb1e606",
+        "android_client_info": {
+          "package_name": "edu.mx.unipolidgo.myfbproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802443375731-mpujehr39m6mhdl4ntki9rk6nc6acm66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1DMggxukKu8yufBuayB4ve4BFHZ3HJas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802443375731-mpujehr39m6mhdl4ntki9rk6nc6acm66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
